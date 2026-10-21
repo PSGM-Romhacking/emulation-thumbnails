@@ -34,12 +34,21 @@ The same rules as libretro-thumbnails, so the images work in RetroArch as they a
 
 - Casio - PV-1000: the box art uses the layout of the original boxes in blue, where the
   official games are red, so they are never mistaken for them.
+- Funtech - Super Acan: *Rebel Star*, which only reached a few sample cartridges and is the one
+  game of the system missing from libretro-thumbnails. Same sizes as libretro's images for the
+  system: box 512 × 896, screens 320 × 224 (the 224 visible lines; the game draws 240).
 
 ## Credits
 
 The games belong to their authors. The title and gameplay screens were captured in
 emulators; box art without an official version follows the layout of the system's original
 boxes.
+
+Exception: the box art of *Rebel Star* (Funtech - Super Acan) is the front of an original sample
+box, cropped and straightened from a collector's photo
+(<https://vgs-media.s3.ca-central-1.amazonaws.com/monthly_2023_09/Rebel.png.a9a19d4a339bfa730dcede08ec51da00.png>).
+It is not covered by the CC0 licence below: the artwork belongs to its publisher and the photo
+to its author.
 
 ## License
 
